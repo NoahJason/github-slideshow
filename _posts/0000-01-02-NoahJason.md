@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Noah's slideshow!"
 ---
-My Github is working
+This is my awesome slide
 Use the left arrow to go back!
